@@ -3,6 +3,7 @@
 🎨 PPT 设计师 ｜ AI Builder · PPT Designer | AI Builder  
 🛠️ 做 PPT，也用 AI 给自己造工具 · I craft slides and build my own AI tools  
 💡 分享设计、AI、独立开发和个人观察 · Sharing design, AI, indie hacking & personal notes  
+🖥️ 在线沉浸式浏览 · Immersive online gallery: [caohaoyuan-slides.netlify.app](https://caohaoyuan-slides.netlify.app/)  
 💻 GitHub：[@xuewei1005](https://github.com/xuewei1005) ｜ X：[@caohaoyuan](https://x.com/caohaoyuan)
 
 ## 作品画廊 · Gallery
